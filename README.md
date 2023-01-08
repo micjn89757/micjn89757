@@ -1,5 +1,5 @@
 ### Hi 你好 👋 我要起飞
-### 在家发霉中....
+### 发霉中....
 
 <!--
 **micjn89757/micjn89757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
