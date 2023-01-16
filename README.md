@@ -1,5 +1,5 @@
 ### Hi 你好 👋 我要起飞
-### 发霉中....
+> 发霉中....
 
 <!--
 **micjn89757/micjn89757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micjn89757&show_icons=true)
-<br>
+
+- 🌱 I’m currently learning ???
+- 💬 Ask me about ???
+- 📫 How to reach me: email
 
